@@ -1,1 +1,1 @@
-# cleaningcompany
+This is the website of the cleaning company. I used HTML, CSS and wordpress CMS to develop this web application. I used contact7 plugin in the contact us, and career page so that the information is got directly transfer to the given email. 
